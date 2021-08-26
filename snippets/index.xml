@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snippets on Sohan Puthran</title>
+    <link>http://sohansputhran.github.io/snippets/</link>
+    <description>Recent content in Snippets on Sohan Puthran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://sohansputhran.github.io/snippets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snipper - 1</title>
+      <link>http://sohansputhran.github.io/snippets/snippet_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sohansputhran.github.io/snippets/snippet_1/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    
+  </channel>
+</rss>
