@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hey!  on Sohan Puthran</title>
+    <title>Data Science Portfolio on Sohan Puthran</title>
     <link>http://sohansputhran.github.io/</link>
-    <description>Recent content in Hey!  on Sohan Puthran</description>
+    <description>Recent content in Data Science Portfolio on Sohan Puthran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://sohansputhran.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,6 +13,16 @@
       
       <guid>http://sohansputhran.github.io/projects/project_1/</guid>
       <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://sohansputhran.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sohansputhran.github.io/contact/</guid>
+      <description>Follow me on these social media platforms:
+   Platform URL     Twitter https://twitter.com/sohansputhran   Github https://www.github.com/sohansputhran   LinkedIn https://www.linkedin.com/in/sohansputhran    </description>
     </item>
     
     <item>
