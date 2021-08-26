@@ -5,15 +5,14 @@
     <link>http://sohansputhran.github.io/posts/</link>
     <description>Recent content in Posts on Sohan Puthran</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2021 23:33:15 -0500</lastBuildDate><atom:link href="http://sohansputhran.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://sohansputhran.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Post</title>
-      <link>http://sohansputhran.github.io/posts/post/</link>
-      <pubDate>Mon, 23 Aug 2021 23:33:15 -0500</pubDate>
+      <title>Post - 1</title>
+      <link>http://sohansputhran.github.io/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sohansputhran.github.io/posts/post/</guid>
-      <description>print(&amp;#34;Hello WOrld!&amp;#34;) </description>
+      <guid>http://sohansputhran.github.io/posts/post_1/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
     </item>
     
   </channel>
