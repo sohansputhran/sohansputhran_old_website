@@ -6,22 +6,76 @@
     <description>Recent content in Posts on Sohan Puthran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://sohansputhran.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://sohansputhran.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>F - String</title>
-      <link>http://sohansputhran.github.io/posts/post_2/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Columns with Missing Values</title>
+      <link>http://sohansputhran.github.io/posts/columns_with_missing_values/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://sohansputhran.github.io/posts/post_2/</guid>
+      <guid>http://sohansputhran.github.io/posts/columns_with_missing_values/</guid>
+      <description>Simple code snippet to get all the columns having missing values in a Python dataframe. List comprehension makes it look so simple.</description>
+    </item>
+    
+    <item>
+      <title>Generating Acronyms</title>
+      <link>http://sohansputhran.github.io/posts/generating_acronyms/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://sohansputhran.github.io/posts/generating_acronyms/</guid>
+      <description>A small snippet to generate acronyms using Python. Python&amp;rsquo;s list comprehension comes in handy for these kinds of tasks.</description>
+    </item>
+    
+    <item>
+      <title>Parse Dates</title>
+      <link>http://sohansputhran.github.io/posts/parse_dates/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://sohansputhran.github.io/posts/parse_dates/</guid>
+      <description>Pandas library has an argument called parse_dates which helps in converting the date columns into datetime type while reading the data. If we don&amp;rsquo;t use parse_dates argument, all the date columns will be object type.</description>
+    </item>
+    
+    <item>
+      <title>String Formatting</title>
+      <link>http://sohansputhran.github.io/posts/string_formatting/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://sohansputhran.github.io/posts/string_formatting/</guid>
+      <description>Even though I have used only f-string type of string formatting since I started working with Python (2 years ago), it&amp;rsquo;s good to learn about the other two types of string formatting that Python supports.</description>
+    </item>
+    
+    <item>
+      <title>Extended Indexing</title>
+      <link>http://sohansputhran.github.io/posts/string_step/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://sohansputhran.github.io/posts/string_step/</guid>
+      <description>Python making string operations easier by using step in extended indexing. These are two simple applications of using step in strings.</description>
+    </item>
+    
+    <item>
+      <title>Substring Count</title>
+      <link>http://sohansputhran.github.io/posts/substring_count/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://sohansputhran.github.io/posts/substring_count/</guid>
       <description>Python makes it easier to find how many times a substring / character appears in a larger string. This comes in handy when you are doing text analysis.</description>
     </item>
     
     <item>
+      <title>F - String</title>
+      <link>http://sohansputhran.github.io/posts/f-string/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://sohansputhran.github.io/posts/f-string/</guid>
+      <description>Python supports f-string which makes the string interpolation simpler. F-string provides a convenient way to embed expressions inside string literals. I am glad I got to learn it which will help me later.</description>
+    </item>
+    
+    <item>
       <title>Long Number</title>
-      <link>http://sohansputhran.github.io/posts/post_1/</link>
+      <link>http://sohansputhran.github.io/posts/long_number/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://sohansputhran.github.io/posts/post_1/</guid>
+      <guid>http://sohansputhran.github.io/posts/long_number/</guid>
       <description>If you have to use a long number in your python script, try separating the number using underscore (as shown) to make it easier to read. The interpreter removes the underscores and reads it as a normal number.</description>
     </item>
     
